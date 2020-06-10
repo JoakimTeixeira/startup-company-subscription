@@ -15,4 +15,4 @@ Email subscription page for imaginary startup company
 
 ## Additional Information
 
-- All project images are free stock photos or icons provided by [Unsplash](https://unsplash.com/) and [Hatchful](https://hatchful.shopify.com/)
+- All project images are free stock photos and icons provided by [Unsplash](https://unsplash.com/) and [Hatchful](https://hatchful.shopify.com/)
