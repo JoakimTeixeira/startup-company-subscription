@@ -12,3 +12,7 @@ Email subscription page for imaginary startup company
 ## Project Dependencies
 - [Bootstrap](https://getbootstrap.com/)
 - [Mailchimp](https://mailchimp.com/)
+
+## Additional Information
+
+- All project images are free stock photos provided by [Unsplash](https://unsplash.com/photos/XyNi3rUEReE)
