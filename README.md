@@ -1,4 +1,4 @@
-# Startup Company Email
+# Startup Company Subscription
 
 Email subscription page for imaginary startup company
 
