@@ -1,6 +1,6 @@
 # Startup Company Subscription
 
-Email subscription page for imaginary startup company
+Email Subscription page for an imaginary startup company
 
 ![image](https://user-images.githubusercontent.com/12193814/84226490-436ad280-aab8-11ea-8a06-fa47b821fae7.png)
 
@@ -9,6 +9,10 @@ Email subscription page for imaginary startup company
 - Developed page with Bootstrap
 - Animated elements with CSS animations
 - Implemented email subscription with Mailchimp
+
+## Running the Project
+
+To get started, fork the repository, clone it, and then open the `index.html` file in the browser.
 
 ## Additional Information
 
